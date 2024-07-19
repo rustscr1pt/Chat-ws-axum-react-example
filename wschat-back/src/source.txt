@@ -1,1 +1,3 @@
 https://momori.dev/posts/building-a-websocket-chat-app-with-axum-and-react/
+
+read before implementing
